@@ -14,7 +14,7 @@ namespace exerciciosBeecrowd
         {
 
             int input = int.Parse(Console.ReadLine());
-            Dictionary<int, string> listDDD = new Dictionary<int, string()
+            Dictionary<int, string> listDDD = new Dictionary<int, string>()
             {
                 {61, "Brasília" },
                 {71, "Salvador" },
@@ -31,7 +31,7 @@ namespace exerciciosBeecrowd
                 Console.WriteLine(listDDD[input]);
             } else
             {
-                Console.WriteLine("DDD nao encontrado");
+                Console.WriteLine("DDD nao cadastrado");
             }
         }
 
