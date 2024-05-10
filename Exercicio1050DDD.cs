@@ -8,13 +8,7 @@ namespace exerciciosBeecrowd
 {
     internal class Exercicio1050DDD
     {
-        public Exercicio1050DDD() { }
-
-        public void fazerExercicio()
-        {
-
-            int input = int.Parse(Console.ReadLine());
-            Dictionary<int, string> listDDD = new Dictionary<int, string>()
+        private Dictionary<int, string> ListDDD = new Dictionary<int, string>()
             {
                 {61, "Brasília" },
                 {71, "Salvador" },
@@ -24,12 +18,20 @@ namespace exerciciosBeecrowd
                 {19, "Campinas"},
                 {27, "Vitória"},
                 {31, "Belo Horizonte"},
-            };
+          };
 
-            if(listDDD.ContainsKey(input))
+        public Exercicio1050DDD() { }
+
+        public void fazerExercicio()
+        {
+
+            int input = int.Parse(Console.ReadLine());
+
+            if (ListDDD.ContainsKey(input))
             {
-                Console.WriteLine(listDDD[input]);
-            } else
+                Console.WriteLine(ListDDD[input]);
+            }
+            else
             {
                 Console.WriteLine("DDD nao cadastrado");
             }
