@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Vai imprimir nada não!");
+Console.WriteLine("Vai imprimir nada não!");
