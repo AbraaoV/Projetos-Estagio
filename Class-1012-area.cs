@@ -28,7 +28,5 @@ namespace _1012_exercicio_area
             Console.WriteLine("QUADRADO: " + aQuad.ToString("F3"));
             Console.WriteLine("RETANGULO: " + aRet.ToString("F3"));
         }
-        
-
     }
 }
