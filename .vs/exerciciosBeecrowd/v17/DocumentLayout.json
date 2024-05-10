@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\projetos\\listBeecrowd\\Projetos-Estagio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88869F87-5E0C-437A-B399-759E4924653F}|exerciciosBeecrowd.csproj|c:\\users\\usuario\\documents\\projetos\\listbeecrowd\\projetos-estagio\\1884coutingcrowclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88869F87-5E0C-437A-B399-759E4924653F}|exerciciosBeecrowd.csproj|solutionrelative:1884coutingcrowclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1884CoutingCrowClass.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\projetos\\listBeecrowd\\Projetos-Estagio\\1884CoutingCrowClass.cs",
+              "RelativeDocumentMoniker": "1884CoutingCrowClass.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\projetos\\listBeecrowd\\Projetos-Estagio\\1884CoutingCrowClass.cs",
+              "RelativeToolTip": "1884CoutingCrowClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:19:36.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
