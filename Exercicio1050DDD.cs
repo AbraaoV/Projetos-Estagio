@@ -12,6 +12,8 @@ namespace exerciciosBeecrowd
 
         public void fazerExercicio()
         {
+
+            int input = int.Parse(Console.ReadLine());
             Dictionary<int, string> listDDD = new Dictionary<int, string>()
             {
                 {61, "Brasília" },
@@ -23,8 +25,6 @@ namespace exerciciosBeecrowd
                 {27, "Vitória"},
                 {31, "Belo Horizonte"},
             };
-
-            int input = int.Parse(Console.ReadLine());
 
             if(listDDD.ContainsKey(input))
             {
